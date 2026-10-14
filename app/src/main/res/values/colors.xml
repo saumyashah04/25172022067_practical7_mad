@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App specific colors (Light Mode) -->
+    <color name="window_background">#F5F7FB</color>
+    <color name="card_background">#E8EFF8</color>
+    <color name="text_title">#131722</color>
+    <color name="text_primary">#111625</color>
+    <color name="text_secondary">#59606E</color>
+
+    <color name="avatar_background">#7B828F</color>
+    <color name="delete_btn_color">#FF1464</color>
+
+    <color name="fab_background">#DCE8FC</color>
+    <color name="fab_icon_tint">#131722</color>
+</resources>

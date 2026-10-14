@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Yesenia Yang",
+    "phone": "+917983385148",
+    "email": "yesenia_yang@gnu.ac.in",
+    "address": "16 Sackett Street, Courtland, Michigan"
+  },
+  {
+    "name": "Sosa Shaffer",
+    "phone": "+917979501912",
+    "email": "sosa_shaffer@gnu.ac.in",
+    "address": "99 Union Street, Nicholson, Iowa"
+  },
+  {
+    "name": "Roberts Gill",
+    "phone": "+919241276734",
+    "email": "roberts_gill@gnu.ac.in",
+    "address": "39 Tompkins Place, Bartonsville, Oklahoma"
+  },
+  {
+    "name": "Penelope Cooper",
+    "phone": "+916836390000",
+    "email": "penelope_cooper@gnu.ac.in",
+    "address": "35 Aitken Place, Orovada, Maryland"
+  }
+]
